@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
-> https://github.com/yino-Wang/yino-portfolio.git
-> https://yino-wang.github.io/yino-portfolio/
+- > https://github.com/yino-Wang/yino-portfolio.git
+- > https://yino-wang.github.io/yino-portfolio/
 
 ### Website Preview
 #### Home Page
